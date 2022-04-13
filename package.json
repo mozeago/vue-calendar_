@@ -1,0 +1,16 @@
+{
+  "name": "vue calendar app",
+  "version": "1.0.0",
+  "description": "calendar scheduling application in vue",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.21.1",
+    "vue": "^3.2.32"
+  },
+  "author": "Moses Asiago",
+  "license": "MIT"
+}
